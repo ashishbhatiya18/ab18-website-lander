@@ -7,7 +7,7 @@ hero:
   # text: "Nice to meet you!"
   tagline: Engineering leader seasoned in developing and operationalising cloud solutions catering to Platform, DevX, Observability, Security Engineering.
   image: 
-    src: /image.jpg
+    src: /public/image.jpg
     alt: Profile Pic
   actions:
     - theme: brand
